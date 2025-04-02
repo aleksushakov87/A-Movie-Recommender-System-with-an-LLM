@@ -318,7 +318,7 @@ def hybrid_filtering(movie_title, rating_with_movie, k =10):
 
 # == 5 - Retrieving additional information with LLM (GPT-4o) ============================================================
 def get_movie_details(movies):
-    openai.api_key = "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"
+    openai.api_key = "OPENAI_API_KEY"
     
     example_json = {"movie_title": "Ferris Bueller's Day Off",
                     "country": "USA",
