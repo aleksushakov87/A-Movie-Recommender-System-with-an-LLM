@@ -16,7 +16,7 @@ Hybrid Filtering: Combines both collaborative and content-based approaches for e
 OpenAI LLM Integration: Fetches additional movie information like the cast, production year, and logline.
 
 
-## How to Run
+# How to Run
 #### Ensure you have Python 3.10 and the required libraries. Install dependencies using:
 
 ```python
@@ -29,7 +29,7 @@ streamlit run recommender_system.py
 #### Open in Browser: 
 Streamlit will automatically open the app in your default browser. If not, access it via the URL provided in the terminal (e.g., http://localhost:8501).
 
-## Usage
+# Usage
 Select a page from the sidebar:
 
 Exploratory Analysis: View dataset insights.
@@ -42,11 +42,11 @@ Recommended Movies: Get a list of movie titles.
 Recommended Movies OpenAI: Get detailed movie information using OpenAI.
 Review the results in the main section of the app.
 
-## Project Structure
+# Project Structure
 recommender_system.py: Main application file.
 movies.csv and ratings.csv: Dataset files.
 
-## Built With
+# Built With
 Python 3.10
 Streamlit
 Pandas
