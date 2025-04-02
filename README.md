@@ -19,11 +19,11 @@ OpenAI LLM Integration: Fetches additional movie information like the cast, prod
 ## How to Run
 Ensure you have Python 3.10 and the required libraries. Install dependencies using:
 
-```bash
+
 pip install -r requirements.txt
 
 ## Run the Application: Navigate to the directory containing recommender_system.py and execute:
-```bash
+
 streamlit run recommender_system.py
 
 ## Open in Browser: 
