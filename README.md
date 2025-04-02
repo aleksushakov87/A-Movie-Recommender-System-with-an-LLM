@@ -55,7 +55,7 @@ Matplotlib and Plotly
 scikit-learn
 OpenAI AP
 
-## License
+# License
 This project is for educational purposes only and does not include licensing for datasets or models used.
 
 
