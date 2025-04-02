@@ -17,7 +17,7 @@ OpenAI LLM Integration: Fetches additional movie information like the cast, prod
 
 
 ## How to Run
-## Install Dependencies: Ensure you have Python 3.10 and the required libraries. Install dependencies using:
+Ensure you have Python 3.10 and the required libraries. Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
