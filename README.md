@@ -21,7 +21,7 @@ Ensure you have Python 3.10 and the required libraries. Install dependencies usi
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Run the Application: Navigate to the directory containing recommender_system.py and execute:
 
 streamlit run recommender_system.py
