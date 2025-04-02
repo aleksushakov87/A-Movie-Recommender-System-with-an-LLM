@@ -3,12 +3,12 @@ A Python-based application that provides movie recommendations using Collaborati
 
 
 # Features
-### Exploratory Analysis:
+#### Exploratory Analysis:
 
 Visualize dataset insights like rating distribution and popular genres.
 Analyze the top and least popular movies based on ratings.
 
-## Recommendation Techniques:
+#### Recommendation Techniques:
 
 Collaborative Filtering: Recommends movies based on user behavior and ratings.
 Content-Based Filtering: Recommends movies based on their features (e.g., genres).
