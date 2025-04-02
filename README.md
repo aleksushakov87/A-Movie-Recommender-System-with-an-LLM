@@ -26,10 +26,10 @@ pip install -r requirements.txt
 ```python
 streamlit run recommender_system.py
 ```
-## Open in Browser: 
+#### Open in Browser: 
 Streamlit will automatically open the app in your default browser. If not, access it via the URL provided in the terminal (e.g., http://localhost:8501).
 
-#### Usage
+## Usage
 Select a page from the sidebar:
 
 Exploratory Analysis: View dataset insights.
