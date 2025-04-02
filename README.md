@@ -46,6 +46,15 @@ Review the results in the main section of the app.
 recommender_system.py: Main application file.
 movies.csv and ratings.csv: Dataset files.
 
+# Examples / Screenshots
+#### The screenshot of Exploratory Analyses screen
+![image](https://github.com/user-attachments/assets/cff96768-2d97-4ff9-b667-9ed5571dc02a)
+
+#### The screenshot of the Collaborative filtering result for 'Terminator, The (1984)' film
+![image](https://github.com/user-attachments/assets/96901e3f-b0e1-42be-bd6b-4488eabdadc6)
+
+
+
 # Built With
 Python 3.10
 Streamlit
