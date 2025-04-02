@@ -17,19 +17,19 @@ OpenAI LLM Integration: Fetches additional movie information like the cast, prod
 
 
 ## How to Run
-Ensure you have Python 3.10 and the required libraries. Install dependencies using:
+#### Ensure you have Python 3.10 and the required libraries. Install dependencies using:
 
 ```python
 pip install -r requirements.txt
 ```
-## Run the Application: Navigate to the directory containing recommender_system.py and execute:
-
+#### Run the Application: Navigate to the directory containing recommender_system.py and execute:
+```python
 streamlit run recommender_system.py
-
+```
 ## Open in Browser: 
 Streamlit will automatically open the app in your default browser. If not, access it via the URL provided in the terminal (e.g., http://localhost:8501).
 
-## Usage
+#### Usage
 Select a page from the sidebar:
 
 Exploratory Analysis: View dataset insights.
