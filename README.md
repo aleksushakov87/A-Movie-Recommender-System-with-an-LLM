@@ -71,4 +71,7 @@ OpenAI AP
 # License
 This project is for educational purposes only and does not include licensing for datasets or models used.
 
+# OpenAI API Key
+“To run this project, create a .env file with your own OpenAI key like this: OPENAI_API_KEY=sk-...”
+
 
