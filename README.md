@@ -53,6 +53,10 @@ movies.csv and ratings.csv: Dataset files.
 #### The screenshot of the Collaborative filtering result for 'Terminator, The (1984)' film
 ![image](https://github.com/user-attachments/assets/96901e3f-b0e1-42be-bd6b-4488eabdadc6)
 
+#### The screenshot of additional info for each movie returned by GPT (openai)
+![image](https://github.com/user-attachments/assets/208cad06-d5a0-4a4a-892f-5dc4d7db5f82)
+
+
 
 
 # Built With
